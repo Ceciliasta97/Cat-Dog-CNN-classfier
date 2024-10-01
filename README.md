@@ -14,7 +14,7 @@ developing a Convolutional Neural Network (CNN) using TensorFlow and Keras to cl
 2. Navigate to the project directory:
 
 ```bash
-  cd cat-dog-cnn-classfier
+  cd Cat-Dog-CNN-Classfier
 ```
 3. Install the required dependencies using pip:
 
